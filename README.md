@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Felipe Ariza</h1>
 <h3 align="center">System Engineer || Software Developer</h3>
 
-- 🌱 I’m currently learning **Angular, SpringBoot**
-
 - 📫 How to reach me **arizaortizl321@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
